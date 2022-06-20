@@ -84,7 +84,7 @@
         </div>
     </div>
     <footer class="center footer">
-        <h6 class="info"><b>2022 © Made by Kommineni Srivathsav</b></h6>
+        <h6 class="info"><b>2022 © Made by Kanneboina Mmanosah </b></h6>
         The Sparks Foundation
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

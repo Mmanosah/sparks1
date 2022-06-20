@@ -1,5 +1,5 @@
 body{
-    font-family: Poppins;
+    font-family:fantasy;
     margin: 0;
 }
 .sect{
@@ -12,10 +12,10 @@ body{
     top:0;
     padding: 0.5px;
     font-family: Alegreya Sans SC;
-    background: lightgray;
+    background: rgb(170, 211, 57);
 }
 .footer{
-    background: lightgray;
+    background: rgb(127, 116, 224);
     margin-bottom: 0;
     bottom: 0;
     padding: 10px;
@@ -25,16 +25,16 @@ body{
 }
 
 .nav1{
-  background-color: #97C4B8;
+  background-color: #31d0cb;
 }
 
 .header1 {
-  background-color: #F9F3EE
+  background-color: #c75486
 }
 
 .textcolor {
-  background-color: #F9CEEE
+  background-color: #161515
 }
 .nav2 {
-  color: #112B3C;
+  color: #11e41c;
 }

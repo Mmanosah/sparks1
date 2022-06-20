@@ -61,7 +61,7 @@
 
   <!--heading / title -->
   <div class="center head mt-0 header1" background-color : #F9F3EE>
-    <h2><b><span>🏦 <style="height:70px;width:60px; font-size: 40px;" /></span>SPARK BANK</b></h2>
+    <h2><b><span>🏦 <style="height:70px;width:60px; font-size: 40px;" /></span>SPARKS BANK</b></h2>
   </div>
 
   <!---3 col start-->
@@ -125,7 +125,7 @@
 
 
   <footer class="center footer">
-    <h6 class="info"><b>2022 © Made by Kommineni Srivathsav</b></h6>
+    <h6 class="info"><b>2022 © Made by Kanneboina Mmanosah</b></h6>
     The Sparks Foundation
   </footer>
 
